@@ -37,17 +37,17 @@ This assignment demands 6 PNG plots that portray Emission level changes over the
 *Note*  
 The R codes and PNG plots are pushed to the current Repo for peer assessment of the course project.
   
+ 
  #*Findings*#
-
-
-    Plot1- There is a considerable decrease in total emission of PM 2.5 in United States during 1999-2008.
+ 
+   Plot1- There is a considerable decrease in total emission of PM 2.5 in United States during 1999-2008.
 	
-    Plot2-shows overall decrease in total emissions of PM2.5 in Baltimore between 1999 to 2008, 
+   Plot2-shows overall decrease in total emissions of PM2.5 in Baltimore between 1999 to 2008, 
 		  though there was an intermittent increase in emission between 2002 and 2005.
 
-    Plot3- Though the plot shows an overall decrease in PM2.5 emissions for all the four sources between 1999 - 2008,
+   Plot3- Though the plot shows an overall decrease in PM2.5 emissions for all the four sources between 1999 - 2008,
 	   it was discovered that 'non-point' types emission is recognizable gap between other type of Emission.
-	     
+   
    Plot4-Across the US, we see a steep decline in emissions from coal combustion sources between 1999 - 2008.
 
    Plot5-There is a steep decrease in emissions between 1999 - 2002, followed by a slight decrease between 2002 - 2005          and a further decrease from 2005 - 2008.
