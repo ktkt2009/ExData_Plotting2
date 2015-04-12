@@ -29,13 +29,16 @@ This assignment demands 6 PNG plots that portray Emission level changes over the
 
   3. To create a plot identifying which type of sources having increasing or decreasing Emissions for Baltimore City      in the period of 1999-2008 by using ggplot2.
 
-  4. To make a plot showing how have emissions from coal combustion-related sources changed from 1999–2008 across          United States.
+ 4. To make a plot showing how have emissions from coal combustion-related sources changed from 1999–2008 across          United States.
 
-  5.To produce a plot how have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City.
+ 5.To produce a plot how have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City.
 
-  6.Finally,to comparision plot of emissions control from motor vehicle sources in Baltimore City with Califonia.
+ 6.Finally,to comparision plot of emissions control from motor vehicle sources in Baltimore City with Califonia.
   
   The R codes and PNG plots are pushed to the current Repo for peer assessment of the course project.
+  
+ #*Findings*#
+ Plot1- There is a considerable decrease in total emission of PM 2.5 in United States during 1999-2008.
 
 
 
