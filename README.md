@@ -30,39 +30,26 @@ This assignment demands 6 PNG plots that portray Emission level changes over the
         
 4.To make a plot showing how have emissions from coal combustion-related sources changed from 1999–2008 across United States.
 
-<<<<<<< HEAD
- 4. To make a plot showing how have emissions from coal combustion-related sources changed from 1999–2008 across          United States.
-
- 5.To produce a plot how have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City.
-
- 6.Finally,to comparision plot of emissions control from motor vehicle sources in Baltimore City with Califonia.
-  
-  The R codes and PNG plots are pushed to the current Repo for peer assessment of the course project.
-  
- #*Findings*#
- Plot1- There is a considerable decrease in total emission of PM 2.5 in United States during 1999-2008.
-=======
 5.To produce a plot how have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City.
 
-6.Finally,the comparison plot of emissions control from motor vehicle sources in Baltimore City with Los Angeles.
+6.Finally,to comparision plot of emissions control from motor vehicle sources in Baltimore City with Califonia.
 
-#Note# 
+*Note*  
 The R codes and PNG plots are pushed to the current Repo for peer assessment of the course project.
-    
-#Findings#
->>>>>>> Commit Course Project
+  
+ #*Findings*#
+
 
     Plot1- There is a considerable decrease in total emission of PM 2.5 in United States during 1999-2008.
 	
-	Plot2-shows overall decrease in total emissions of PM2.5 in Baltimore between 1999 to 2008, 
+    Plot2-shows overall decrease in total emissions of PM2.5 in Baltimore between 1999 to 2008, 
 		  though there was an intermittent increase in emission between 2002 and 2005.
 
-	Plot3- Though the plot shows an overall decrease in PM2.5 emissions for all the four sources between 1999 - 2008, 
-	      it is interesting to note that while 'non-road' and 'non-point' types almost mirror the total PM2.5 emission trend seen in US in the first plot, for 'on-road' type there is only a slight decrease in emissions between 2005 - 2008. 'Point' type has a much different trend compared to the other three sources, 
-	      with a steep increase in PM2.5 emissions between 1999 - 2005, followed by a drastic drop in emissions between 2005 - 2008.
+    Plot3- Though the plot shows an overall decrease in PM2.5 emissions for all the four sources between 1999 - 2008,
+	   it was discovered that 'non-point' types emission is recognizable gap between other type of Emission.
+	     
+   Plot4-Across the US, we see a steep decline in emissions from coal combustion sources between 1999 - 2008.
 
-	Plot4-Across the US, we see a steep decline in emissions from coal combustion sources between 1999 - 2008.
-
-	Plot5-There is a steep decrease in emissions between 1999 - 2002, followed by a slight decrease between 2002 - 2005 and a further decrease from 2005 - 2008.
-
-	Plot6- There are huge difference between Baltimore and Los Angeles country in emission control of motor vehicles sources. The biggest point, in 2005 Emission 	 	   values of 4101 and 130 are from Los Angeles and Baltimore respectively.
+   Plot5-There is a steep decrease in emissions between 1999 - 2002, followed by a slight decrease between 2002 - 2005          and a further decrease from 2005 - 2008.
+   
+   Plot6- There are huge difference between Baltimore and Los Angeles country in emission control of motor vehicles             sources. The biggest point, in 2005 Emission values of 4101 and 130 are from Los Angeles and Baltimore    	          respectively.
