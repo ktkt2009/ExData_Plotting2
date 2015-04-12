@@ -38,7 +38,7 @@ This assignment demands 6 PNG plots that portray Emission level changes over the
 The R codes and PNG plots are pushed to the current Repo for peer assessment of the course project.
   
  
- #*Findings*#
+#Findings#
  
    Plot1- There is a considerable decrease in total emission of PM 2.5 in United States during 1999-2008.
 	
